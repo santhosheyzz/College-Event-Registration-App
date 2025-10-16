@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-=======
 # Rocker Event Registration
 
 A **dynamic, rocker-themed mobile app** for college event registration with **bold designs**, **lively animations**, and a **modern tech stack**.  
@@ -131,16 +127,12 @@ git checkout -b feature/amazing-feature
 
 ```git commit -m "Add some amazing feature"```
 
-
-
-
-
 ### 📜 License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
 
-## 💖 Acknowledgments
+### 💖 Acknowledgments
 
 Built with Vite ⚡
 
@@ -152,4 +144,4 @@ Backend powered by Supabase
 
 Made with ❤️ by Santhoshkumar and Team
 
->>>>>>> 6f368762777998b20de7c9346a1979a706ca913f
+
